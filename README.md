@@ -42,8 +42,3 @@ This capstone project focuses on predicting the success of SpaceX Falcon 9 rocke
 - `6_Interactive_Visual_Analytics_with_Folium.ipynb`: Folium map visualizations.
 - `7_Machine_Learning_Prediction.ipynb`: Predictive modeling.
 - `spacex_dash_app.py`: Plotly Dash interactive dashboard.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/klaudiaban/IBM-Applied-Data-Science-Capstone.git
